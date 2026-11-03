@@ -4,6 +4,3 @@ Course materials in Hebrew.
 
 ## Contents
 - Lectures
-- Exercises
-- Solutions
-- Jupyter Notebooks
